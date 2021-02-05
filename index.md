@@ -1,3 +1,7 @@
+---
+title: GA, NeSI, and Carpentries workshops in NZ
+---
+
 Coming Up Soon
 
 
