@@ -18,7 +18,7 @@ Registrations: Closed <br>
 Contact: megan.guidry@nesi.org.nz <br>
 
 #### 4. Carpentries Community Discussion about teaching online - Online (31 March 3:00pm NZDT)
-<a href="https://pad.carpentries.org/community-discussions">Sign up for the discussion here</a> <br>
+Registration: <a href="https://pad.carpentries.org/community-discussions">Sign up for the discussion here</a> <br>
 Contact: megan.guidry@nesi.org.nz <br>
 
 ### April 2021
