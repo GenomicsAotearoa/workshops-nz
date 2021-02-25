@@ -4,11 +4,11 @@ Genomics Aotearoa, NeSI and Carpentries are working closely together to deliver 
 
 ### March 2021
 #### 1. Genomics Data Carpentry - Online (16th - 17th)
-Registrations: <a href="https://www.eventbrite.co.nz/e/genomics-data-carpentry-online-tickets-142449096081">Here</a>
+Registrations: <a href="https://www.eventbrite.co.nz/e/genomics-data-carpentry-online-tickets-142449096081">Here</a> <br>
 Contact: ngoni.faya@otago.ac.nz
 
 #### 2. Hi-C Workshop - Auckland (25th - 26th)
-Registrations: Closed
+Registrations: Closed <br>
 Contact: ngoni.faya@otago.ac.nz
 
 ## Past Workshops
