@@ -11,5 +11,15 @@ Contact: ngoni.faya@otago.ac.nz
 Registrations: Closed <br>
 Contact: ngoni.faya@otago.ac.nz
 
+### April 2021
+#### 1. Ecology Data Carpentry - Dunedin (7th -8th)
+Registrations: Link coming soon
+Contact: murray.cadzow@otago.ac.nz
+
+#### 2. RNA-seq Workshop - Dunedin (9th)
+Registrations: Link coming soon
+Contact: ngoni.faya@otago.ac.nz
+
+
 ## Past Workshops
 
