@@ -13,7 +13,7 @@ Contact: ngoni.faya@otago.ac.nz <br>
 Registrations: Closed <br>
 Contact: ngoni.faya@otago.ac.nz <br>
 
-#### 3. Massey Uni | Data Organization in Spreadsheets for Ecologists - Online (29th)
+#### 3. Massey Uni | Data Organization in Spreadsheets for Ecologists - Online (29 March 2-4pm NZDT)
 Registrations: Closed <br>
 Contact: megan.guidry@nesi.org.nz <br>
 
