@@ -2,4 +2,5 @@ Genomics Aotearoa, NeSI and Carpentries are working closely together to deliver 
 
 ## Genomics Aotearoa
 
-{% include ga_workshops.md %}
+### March 2021
+
