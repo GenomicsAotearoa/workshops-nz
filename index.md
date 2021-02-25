@@ -4,7 +4,7 @@ Genomics Aotearoa, NeSI and Carpentries are working closely together to deliver 
 
 ### March 2021
 #### Genomics Data Carpentry - Online (16th - 17th)
-Registrations: https://www.eventbrite.co.nz/e/genomics-data-carpentry-online-tickets-142449096081
+Registrations: <a href="https://www.eventbrite.co.nz/e/genomics-data-carpentry-online-tickets-142449096081">Here</a>
 
 ## Past Workshops
 
