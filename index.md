@@ -30,6 +30,10 @@ Contact: murray.cadzow@otago.ac.nz <br>
 Registrations: Link coming soon <br>
 Contact: ngoni.faya@otago.ac.nz <br>
 
+#### 4. Carpentries Community Discussion | All about HPC Carpentry  - Online (21 April 3:00pm NZDT)
+Registration: <a href="https://pad.carpentries.org/community-discussions">Sign up for the discussion here</a> <br>
+Contact: megan.guidry@nesi.org.nz <br>
+
 
 ## Past Workshops
 
