@@ -11,7 +11,7 @@ Contact: ngoni.faya@otago.ac.nz <br>
 
 #### 2. RMarkdown for Researchers: Weave together narrative text and code - Online (24th 12-1pm NZDT)
 <a href="https://www.eventbrite.co.nz/e/rmarkdown-for-researchers-weave-together-narrative-text-and-code-registration-144069029345">Click here to register</a> <br>
-Contact: ngoni.faya@otago.ac.nz <br>
+Contact: megan.guidry@nesi.org.nz <br>
 
 #### 2. Hi-C Workshop - Auckland (25th - 26th)
 Registrations: Closed <br>
