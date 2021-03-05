@@ -47,6 +47,6 @@ Contact: megan.guidry@nesi.org.nz <br>
 ## Past Workshops
 
 {% for event in site.data.events %}
-<h4>{{ event.name }} ({{ event.date }})<h4>
+<h4>{{ event.name }} ({{ event.date }})</h4>
 {{ event.description }}
 {% endfor %}
