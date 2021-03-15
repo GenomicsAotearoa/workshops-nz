@@ -32,11 +32,11 @@ Contact: megan.guidry@nesi.org.nz <br>
 
 ### April 2021
 #### 1. Ecology Data Carpentry - Dunedin (7th -8th)
-Registrations: Link coming soon <br>
+Registrations: https://otagocarpentries.github.io/2021-04-07-otago/ <br>
 Contact: murray.cadzow@otago.ac.nz <br>
 
 #### 2. RNA-seq Workshop - Dunedin (9th)
-Registrations: Link coming soon <br>
+Registrations: https://www.eventbrite.co.nz/e/rna-seq-workshop-otago-tickets-144284792699 <br>
 Contact: ngoni.faya@otago.ac.nz <br>
 
 #### 4. Carpentries Community Discussion | All about HPC Carpentry  - Online (21 April 3:00pm NZDT)
