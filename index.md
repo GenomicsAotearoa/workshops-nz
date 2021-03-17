@@ -5,11 +5,8 @@ How to add a workshop to this page: Instructions coming soon
 ## Upcoming Workshops
 
 ### March 2021
-#### 1. Genomics Data Carpentry - Online (16th - 17th)
-Registrations: <a href="https://www.eventbrite.co.nz/e/genomics-data-carpentry-online-tickets-142449096081">Here</a> <br>
-Contact: ngoni.faya@otago.ac.nz <br>
 
-#### 2. RMarkdown for Researchers: Weave together narrative text and code - Online (24th 12-1pm NZDT)
+#### 1. RMarkdown for Researchers: Weave together narrative text and code - Online (24th 12-1pm NZDT)
 <a href="https://www.eventbrite.co.nz/e/rmarkdown-for-researchers-weave-together-narrative-text-and-code-registration-144069029345">Click here to register</a> <br>
 Contact: megan.guidry@nesi.org.nz <br>
 
@@ -45,6 +42,9 @@ Contact: megan.guidry@nesi.org.nz <br>
 
 
 ## Past Workshops
+
+#### 1. Genomics Data Carpentry - Online (16th - 17th)
+<a href="https://datacarpentry.org/genomics-workshop/">Workshop material</a>
 
 {% for event in site.data.events %}
 <h4>{{ event.name }} ({{ event.date }})</h4>
