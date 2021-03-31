@@ -4,29 +4,6 @@ How to add a workshop to this page: Instructions coming soon
 
 ## Upcoming Workshops
 
-### March 2021
-
-#### 1. RMarkdown for Researchers: Weave together narrative text and code - Online (24th 12-1pm NZDT)
-<a href="https://www.eventbrite.co.nz/e/rmarkdown-for-researchers-weave-together-narrative-text-and-code-registration-144069029345">Click here to register</a> <br>
-Contact: megan.guidry@nesi.org.nz <br>
-
-#### 2. Hi-C Workshop - Auckland (25th - 26th)
-Registrations: Closed <br>
-Contact: ngoni.faya@otago.ac.nz <br>
-
-#### 3. Massey Uni | Data Organization in Spreadsheets for Ecologists - Online (29 March 2-4pm NZDT)
-Registrations: Closed <br>
-Contact: megan.guidry@nesi.org.nz <br>
-
-#### 4. Collaborative event | Machine Learning 101 on NeSI - Wellington (29 March All day)
-Location: in-person Greta Point, Wellington
-Registrations: TBA <br>
-Contact: megan.guidry@nesi.org.nz <br>
-
-#### 5. Carpentries Community Discussion about teaching online - Online (31 March 3:00pm NZDT)
-Registration: <a href="https://pad.carpentries.org/community-discussions">Sign up for the discussion here</a> <br>
-Contact: megan.guidry@nesi.org.nz <br>
-
 ### April 2021
 #### 1. Ecology Data Carpentry - Dunedin (7th -8th)
 Registrations: https://otagocarpentries.github.io/2021-04-07-otago/ <br>
@@ -42,11 +19,31 @@ Contact: megan.guidry@nesi.org.nz <br>
 
 
 ## Past Workshops
+#### Carpentries Community Discussion about teaching online - Online (31 March 3:00pm NZDT)
+Registration: <a href="https://pad.carpentries.org/community-discussions">Sign up for the discussion here</a> <br>
+Contact: megan.guidry@nesi.org.nz <br>
 
-#### 1. Genomics Data Carpentry - Online (16th - 17th)
+#### Collaborative event | Machine Learning 101 on NeSI - Wellington (29 March All day)
+Location: in-person Greta Point, Wellington
+Registrations: TBA <br>
+Contact: megan.guidry@nesi.org.nz <br>
+
+#### Massey Uni | Data Organization in Spreadsheets for Ecologists - Online (29 March 2-4pm NZDT)
+Registrations: Closed <br>
+Contact: megan.guidry@nesi.org.nz <br>
+
+#### Hi-C Workshop - Auckland (25th - 26th March)
+Registrations: Closed <br>
+Contact: ngoni.faya@otago.ac.nz <br>
+
+#### RMarkdown for Researchers: Weave together narrative text and code - Online (24th 12-1pm NZDT)
+<a href="https://www.eventbrite.co.nz/e/rmarkdown-for-researchers-weave-together-narrative-text-and-code-registration-144069029345">Click here to register</a> <br>
+Contact: megan.guidry@nesi.org.nz <br>
+
+#### Genomics Data Carpentry - Online (16th - 17th March)
 <a href="https://datacarpentry.org/genomics-workshop/">Workshop material</a>
 
-{% for event in site.data.events %}
+<!--- {% for event in site.data.events %}
 <h4>{{ event.name }} ({{ event.date }})</h4>
 {{ event.description }}
-{% endfor %}
+{% endfor %} --->
