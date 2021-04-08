@@ -2,7 +2,7 @@ Many Universities, Crown research institutions, and other groups coordinate and 
 
 **Page purpose:** to raise awareness of NZ training events and encourage inter-institutional collaboration.
 
-**How to add a workshop to this page: **Instructions coming soon
+**How to add a workshop to this page:** Instructions coming soon
 
 ## Upcoming Workshops
 
@@ -12,15 +12,15 @@ Registrations: https://otagocarpentries.github.io/2021-04-07-otago/ <br>
 Contact: murray.cadzow@otago.ac.nz <br>
 
 #### 2. RNA-seq Workshop - Dunedin (9th)
-Registrations: https://www.eventbrite.co.nz/e/rna-seq-workshop-otago-tickets-144284792699 <br>
+Registrations: <a href="https://www.eventbrite.co.nz/e/rna-seq-workshop-otago-tickets-144284792699">Click here to register</a> <br>
 Contact: ngoni.faya@otago.ac.nz <br>
 
 #### 3. NeSI know-how webinar 1: 4 tips for getting started with NeSI - Online (15 April)
-Registrations: https://www.eventbrite.co.nz/e/148698369827 <br>
+Registrations: <a href="https://www.eventbrite.co.nz/e/148698369827">Click here to register</a> <br>
 Contact: training@nesi.org.nz <br>
 
 #### 4. Globus update for IT professionals in NZ - Online (20 April)
-Registrations: https://www.eventbrite.co.nz/e/148843052577 <br>
+Registrations: <a href="https://www.eventbrite.co.nz/e/148843052577">Click here to register</a> <br>
 Contact: training@nesi.org.nz <br>
 
 #### 5. Carpentries Community Discussion | All about HPC Carpentry  - Online (21 April 3:00pm NZDT)
@@ -28,12 +28,12 @@ Registration: <a href="https://pad.carpentries.org/community-discussions">Sign u
 Contact: megan.guidry@nesi.org.nz <br>
 
 #### 6. NeSI know-how webinar 2: Using Jupyter on NeSI - Online (22 April)
-Registrations: https://www.eventbrite.co.nz/e/149787256717 <br>
+Registrations: <a href="https://www.eventbrite.co.nz/e/149787256717">Click here to register</a> <br>
 Contact: training@nesi.org.nz <br>
 
 ### May 2021
 #### 6. NeSI know-how webinar 3: What to know about GPUs - Online (6 May)
-Registrations: https://www.eventbrite.co.nz/e/149790941739 <br>
+Registrations: <a href="https://www.eventbrite.co.nz/e/149790941739">Click here to register</a> <br>
 Contact: training@nesi.org.nz <br>
 
 ## Past Workshops
