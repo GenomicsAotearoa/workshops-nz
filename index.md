@@ -1,6 +1,8 @@
-Genomics Aotearoa, NeSI and Carpentries are working closely together to deliver free workshops to upskill researchers in New Zealand. The site will capture all the training that will be happening around the country as well as the links to the workshops. The information on this site is not restricted to only training from the mentioned organisations, therefore we encourage all instructors/trainers in New Zealand to post their workshop details as well and collaborate with us.
+Many Universities, Crown research institutions, and other groups coordinate and deliver valuable upskilling opportunities for NZ based researchers. This page, originally created by Genomics Aotearoa and New Zealand eScience Infrastructure, is for listing NZ-friendly digital skills workshops. We encourage anyone who is instructing at or coordinating a training event to post their workshop details on this page, even if it is a 'closed' or private event.  
 
-How to add a workshop to this page: Instructions coming soon
+**Page purpose:** to raise awareness of NZ training events and encourage inter-institutional collaboration.
+
+**How to add a workshop to this page: **Instructions coming soon
 
 ## Upcoming Workshops
 
@@ -13,10 +15,26 @@ Contact: murray.cadzow@otago.ac.nz <br>
 Registrations: https://www.eventbrite.co.nz/e/rna-seq-workshop-otago-tickets-144284792699 <br>
 Contact: ngoni.faya@otago.ac.nz <br>
 
-#### 4. Carpentries Community Discussion | All about HPC Carpentry  - Online (21 April 3:00pm NZDT)
+#### 3. NeSI know-how webinar 1: 4 tips for getting started with NeSI - Online (15 April)
+Registrations: https://www.eventbrite.co.nz/e/148698369827 <br>
+Contact: training@nesi.org.nz <br>
+
+#### 4. Globus update for IT professionals in NZ - Online (20 April)
+Registrations: https://www.eventbrite.co.nz/e/148843052577 <br>
+Contact: training@nesi.org.nz <br>
+
+#### 5. Carpentries Community Discussion | All about HPC Carpentry  - Online (21 April 3:00pm NZDT)
 Registration: <a href="https://pad.carpentries.org/community-discussions">Sign up for the discussion here</a> <br>
 Contact: megan.guidry@nesi.org.nz <br>
 
+#### 6. NeSI know-how webinar 2: Using Jupyter on NeSI - Online (22 April)
+Registrations: https://www.eventbrite.co.nz/e/149787256717 <br>
+Contact: training@nesi.org.nz <br>
+
+### May 2021
+#### 6. NeSI know-how webinar 3: What to know about GPUs - Online (6 May)
+Registrations: https://www.eventbrite.co.nz/e/149790941739 <br>
+Contact: training@nesi.org.nz <br>
 
 ## Past Workshops
 #### Carpentries Community Discussion about teaching online - Online (31 March 3:00pm NZDT)
