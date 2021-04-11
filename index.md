@@ -53,7 +53,7 @@ Registrations: Closed <br>
 Contact: megan.guidry@nesi.org.nz <br>
 
 #### Hi-C Workshop - Auckland (25th - 26th March)
-Registrations: Closed <br>
+Workshop: <a href="https://github.com/GenomicsAotearoa/Hi-C-workshop">site</a> <br>
 Contact: ngoni.faya@otago.ac.nz <br>
 
 #### RMarkdown for Researchers: Weave together narrative text and code - Online (24th 12-1pm NZDT)
