@@ -7,15 +7,32 @@ Many Universities, Crown research institutions, and other groups coordinate and 
 ## Upcoming Workshops
 
 ### May 2021
-#### 1. NeSI know-how webinar 3: What to know about GPUs - Online (6 May)
+#### 1. Genomics Data Analysis - Massey University (27-28 May)
+Contact: ngoni.faya@otago.ac.nz
+
+### June 2021
+#### 1. Environmental DNA Workshop, 24-25 June 2021, Auckland
+Advances in genomics over the past decade have greatly expanded the breadth of community ecology, and enabled fine scale study of many ecosystems. Environmental DNA (eDNA) is DNA material isolated from environmental substrates, including water, soil, air, or even within larger organisms (using a broader definition of ‘environment’). The eDNA samples can be amplified with PCR and sequenced with next-generation sequencing technologies to study the biodiversity of the environment, in a method called metabarcoding. In this workshop we will review the most common methods for metabarcoding in order to identify the taxonomic components and determine the relationship across these communities. Through a combination of demonstration and hands-on practicals, you will learn the basic concepts and core tools needed to analyse eDNA metabarcoding data for a wide range of studies.
+ 
+Registration: https://www.eventbrite.co.nz/e/environmental-dna-workshop-auckland-tickets-156442241957
+Contact: ngoni.faya@otago.ac.nz
+ 
+ #### 2. mixOmics workshop for omics data integration, 28-30 June 2021, Palmerston North
+There will be a mixOmics workshop at Massey University, Palmerston North. More details, including a tentative content, to be fine-tuned with the audience can be found at this link: http://mixomics.org/2021/05/june-28-30-2021-palmerston-north-nz-beginner/ 
+ 
+Register your interest here: https://forms.gle/MgFdvVjRdtnPr92UA and lock in your dates in your diary! 
+Survey closes on Tuesday 7 June with registration confirmation announced a day later. Partial or total registration fee waivers available to selected PhD student applicants.
+Contact: Kim-Anh: kimanh.lecao@unimelb.edu.au or Matthieu: M.Vignes@massey.ac.nz
+ 
+## Past Workshops
+
+### NeSI know-how webinar 3: What to know about GPUs - Online (6 May)
 Registrations: <a href="https://www.eventbrite.co.nz/e/149790941739">Click here to register</a> <br>
 Contact: training@nesi.org.nz <br>
 
-#### 2. RNA-seq workshop - Massey Univeristy, Palmerston North (18-19 May)
+### RNA-seq workshop - Massey Univeristy, Palmerston North (18-19 May)
 Registrations: <a href="https://www.eventbrite.co.nz/e/rna-seq-workshop-massey-tickets-149969341337">Click here to register</a> <br>
 Contact: ngoni.faya@otago.ac.nz <br>
-
-## Past Workshops
 
 
 #### NeSI know-how webinar 1: 4 tips for getting started with NeSI - Online (15 April)
