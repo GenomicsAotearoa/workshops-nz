@@ -26,11 +26,11 @@ Contact: Kim-Anh: kimanh.lecao@unimelb.edu.au or Matthieu: M.Vignes@massey.ac.nz
  
 ## Past Workshops
 
-### NeSI know-how webinar 3: What to know about GPUs - Online (6 May)
+#### NeSI know-how webinar 3: What to know about GPUs - Online (6 May)
 Registrations: <a href="https://www.eventbrite.co.nz/e/149790941739">Click here to register</a> <br>
 Contact: training@nesi.org.nz <br>
 
-### RNA-seq workshop - Massey Univeristy, Palmerston North (18-19 May)
+#### RNA-seq workshop - Massey Univeristy, Palmerston North (18-19 May)
 Registrations: <a href="https://www.eventbrite.co.nz/e/rna-seq-workshop-massey-tickets-149969341337">Click here to register</a> <br>
 Contact: ngoni.faya@otago.ac.nz <br>
 
