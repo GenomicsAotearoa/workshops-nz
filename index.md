@@ -15,12 +15,13 @@ Genotype imputation is a key component of modern genetic studies. It is a cost-e
 Register <a href="https://otago.au1.qualtrics.com/jfe/form/SV_5vwUUZNiSjxVWMm">here</a><br>
 
 
- #### mixOmics workshop for omics data integration, Dates TBA, Palmerston North
+## Dates TBA
+ #### mixOmics workshop for omics data integration, Palmerston North
 There will be a mixOmics workshop at Massey University, Palmerston North. More details, including a tentative content, to be fine-tuned with the audience can be found at this link: http://mixomics.org/2021/05/june-28-30-2021-palmerston-north-nz-beginner/ 
  
 Register your interest here: https://forms.gle/MgFdvVjRdtnPr92UA and lock in your dates in your diary! 
-Survey closes on Tuesday 7 June with registration confirmation announced a day later. Partial or total registration fee waivers available to selected PhD student applicants.
-Contact: Kim-Anh: kimanh.lecao@unimelb.edu.au or Matthieu: M.Vignes@massey.ac.nz
+Survey closes on Tuesday 7 June with registration confirmation announced a day later. Partial or total registration fee waivers available to selected PhD student applicants. <br>
+Contact: Kim-Anh: kimanh.lecao@unimelb.edu.au or Matthieu: M.Vignes@massey.ac.nz <br>
  
 ## Past Workshops
 
