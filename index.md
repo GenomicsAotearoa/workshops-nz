@@ -6,9 +6,16 @@ Many Universities, Crown research institutions, and other groups coordinate and 
 
 ## Upcoming Workshops
 
+## August 2021
 
- 
- #### 2. mixOmics workshop for omics data integration, 28-30 June 2021, Palmerston North
+### Imputation Workshop, 11th August 2021 - LIC, Hamilton
+Genotype imputation is a key component of modern genetic studies. It is a cost-efficient approach to approximate high-density genotypes or full sequence data from low-density genotypes/low-pass sequencing data of individuals. This workshop is intended for anyone interested in learning how to use either Beagle or Minimac to impute genotypes and how to evaluate the imputation performance. A brief overview of imputation will be followed by demonstrations and exercises, including:
+- Quality control and preparation of genetic data for imputation 
+- Evaluate the imputation performance using different parameters
+Register <a href="https://otago.au1.qualtrics.com/jfe/form/SV_5vwUUZNiSjxVWMm">here</a>
+
+
+ #### mixOmics workshop for omics data integration, Dates TBA, Palmerston North
 There will be a mixOmics workshop at Massey University, Palmerston North. More details, including a tentative content, to be fine-tuned with the audience can be found at this link: http://mixomics.org/2021/05/june-28-30-2021-palmerston-north-nz-beginner/ 
  
 Register your interest here: https://forms.gle/MgFdvVjRdtnPr92UA and lock in your dates in your diary! 
