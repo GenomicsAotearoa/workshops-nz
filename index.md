@@ -13,6 +13,7 @@ Genotype imputation is a key component of modern genetic studies. It is a cost-e
 - Quality control and preparation of genetic data for imputation 
 - Evaluate the imputation performance using different parameters <br>
 Register <a href="https://otago.au1.qualtrics.com/jfe/form/SV_5vwUUZNiSjxVWMm">here</a><br>
+Contact: ngoni.faya@otago.ac.nz <br>
 
 
 ## Dates TBA
