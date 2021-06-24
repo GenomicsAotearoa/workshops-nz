@@ -11,8 +11,8 @@ Many Universities, Crown research institutions, and other groups coordinate and 
 ### Imputation Workshop, 11th August 2021 - LIC, Hamilton
 Genotype imputation is a key component of modern genetic studies. It is a cost-efficient approach to approximate high-density genotypes or full sequence data from low-density genotypes/low-pass sequencing data of individuals. This workshop is intended for anyone interested in learning how to use either Beagle or Minimac to impute genotypes and how to evaluate the imputation performance. A brief overview of imputation will be followed by demonstrations and exercises, including:
 - Quality control and preparation of genetic data for imputation 
-- Evaluate the imputation performance using different parameters
-Register <a href="https://otago.au1.qualtrics.com/jfe/form/SV_5vwUUZNiSjxVWMm">here</a>
+- Evaluate the imputation performance using different parameters <br>
+Register <a href="https://otago.au1.qualtrics.com/jfe/form/SV_5vwUUZNiSjxVWMm">here</a><br>
 
 
  #### mixOmics workshop for omics data integration, Dates TBA, Palmerston North
@@ -25,8 +25,8 @@ Contact: Kim-Anh: kimanh.lecao@unimelb.edu.au or Matthieu: M.Vignes@massey.ac.nz
 ## Past Workshops
 
 #### Environmental DNA Workshop, 24-25 June 2021, Auckland
-Advances in genomics over the past decade have greatly expanded the breadth of community ecology, and enabled fine scale study of many ecosystems. Environmental DNA (eDNA) is DNA material isolated from environmental substrates, including water, soil, air, or even within larger organisms (using a broader definition of ‘environment’). The eDNA samples can be amplified with PCR and sequenced with next-generation sequencing technologies to study the biodiversity of the environment, in a method called metabarcoding. In this workshop we will review the most common methods for metabarcoding in order to identify the taxonomic components and determine the relationship across these communities. Through a combination of demonstration and hands-on practicals, you will learn the basic concepts and core tools needed to analyse eDNA metabarcoding data for a wide range of studies.
-<a href="https://otagoedna.github.io/edna_workshop_june2021/">Workshop_Link</a>
+Advances in genomics over the past decade have greatly expanded the breadth of community ecology, and enabled fine scale study of many ecosystems. Environmental DNA (eDNA) is DNA material isolated from environmental substrates, including water, soil, air, or even within larger organisms (using a broader definition of ‘environment’). The eDNA samples can be amplified with PCR and sequenced with next-generation sequencing technologies to study the biodiversity of the environment, in a method called metabarcoding. In this workshop we will review the most common methods for metabarcoding in order to identify the taxonomic components and determine the relationship across these communities. Through a combination of demonstration and hands-on practicals, you will learn the basic concepts and core tools needed to analyse eDNA metabarcoding data for a wide range of studies. <br>
+<a href="https://otagoedna.github.io/edna_workshop_june2021/">Workshop_Link</a><br>
 
 
 #### NeSI know-how webinar 3: What to know about GPUs - Online (6 May)
