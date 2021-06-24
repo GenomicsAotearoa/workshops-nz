@@ -17,7 +17,7 @@ Contact: ngoni.faya@otago.ac.nz <br>
 
 
 ## Dates TBA
- #### mixOmics workshop for omics data integration, Palmerston North
+#### mixOmics workshop for omics data integration, Palmerston North
 There will be a mixOmics workshop at Massey University, Palmerston North. More details, including a tentative content, to be fine-tuned with the audience can be found at this link: http://mixomics.org/2021/05/june-28-30-2021-palmerston-north-nz-beginner/ 
  
 Register your interest here: https://forms.gle/MgFdvVjRdtnPr92UA and lock in your dates in your diary! 
