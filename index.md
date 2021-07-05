@@ -5,6 +5,22 @@ Many Universities, Crown research institutions, and other groups coordinate and 
 **How to add a workshop to this page:** Instructions coming soon
 
 ## Upcoming Workshops
+## July 2021
+### Genomics Data Carpentry, 27-28 July, Online
+Co-hosted by Genomics Aotearoa and NeSI, this online introductory workshop will help you get started with genomic data analysis. Specifically, attendees can expect to learn: 
+Project organization and management - Learn how to structure your metadata, organize and document your genomics data and bioinformatics workflow, and access data on the NCBI sequence read archive (SRA) database.
+Introduction to the command line - Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards.
+Data wrangling and processing - Use command-line tools to perform quality control, align reads to a reference genome, and identify and visualize between-sample variation.
+Introduction to cloud computing and High Performance Computers (HPCs) for genomics - Learn how to work with NeSI HPCs and how to transfer data between your local computer and the HPC platform.
+ 
+Prerequisites:
+This online workshop is for beginners to bioinformatics but basic genomics knowledge is expected. Learners should have some familiarity with biological concepts and must bring their own laptops. This is a hands-on workshop and participants are encouraged to participate actively.
+ 
+Registration: 
+To attend, you must register in advance. Instructions for connecting to the online session will be emailed to all registrants. 
+ 
+Register here: https://foreal17.github.io/2021-07-27-Online/
+ 
 
 ## August 2021
 
