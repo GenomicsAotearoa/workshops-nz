@@ -5,8 +5,17 @@ Many Universities, Crown research institutions, and other groups coordinate and 
 **How to add a workshop to this page:** Instructions coming soon
 
 ## Upcoming Workshops
-## July 2021
-### Genomics Data Carpentry, 27-28 July, Online
+## September 2021
+
+### RNA-seq Workshop – Online on the 8th of September 2021
+This specialist workshop, hosted by Genomics Aotearoa and NeSI, is for researchers interested in gene expression analysis. This is a hands on workshop covering the RNA-seq pipeline from Fastq QC to Differential Expression and Enrichment analysis.
+
+Prerequisites:
+To get the most out of this workshop, it is encouraged that attendees know the basics of genetics and genomics and have familiarity with bash and R.
+
+Registration: https://www.eventbrite.co.nz/e/rna-seq-workshop-online-tickets-168673907197
+
+### Genomics Data Carpentry, 21-22 September, Online
 Co-hosted by Genomics Aotearoa and NeSI, this online introductory workshop will help you get started with genomic data analysis. Specifically, attendees can expect to learn: 
 Project organization and management - Learn how to structure your metadata, organize and document your genomics data and bioinformatics workflow, and access data on the NCBI sequence read archive (SRA) database.
 Introduction to the command line - Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards.
@@ -20,17 +29,26 @@ Registration:
 To attend, you must register in advance. Instructions for connecting to the online session will be emailed to all registrants. 
  
 Register here: https://foreal17.github.io/2021-07-27-Online/
+
+## November 2021
+### Metagenomics Summer School – In person, Auckland, 15-18 November 2021 (Flyer attached)
+We are now accepting expressions of interest for the summer school. Please see the attached flyer for more details on the content covered.
+This is a 4 day course that covers the whole metagenomics data analysis pipeline through hands on bioinformatics analysis, discussions, group assignments and talks.
+Expression of Interest: https://otago.au1.qualtrics.com/jfe/form/SV_5yFqy1tOdKTX3AW
+Expressions of interest close 5pm Friday, 17th of September (NZ)
  
-
-## August 2021
-
-### Imputation Workshop, 11th August 2021 - LIC, Hamilton
-Genotype imputation is a key component of modern genetic studies. It is a cost-efficient approach to approximate high-density genotypes or full sequence data from low-density genotypes/low-pass sequencing data of individuals. This workshop is intended for anyone interested in learning how to use either Beagle or Minimac to impute genotypes and how to evaluate the imputation performance. A brief overview of imputation will be followed by demonstrations and exercises, including:
-- Quality control and preparation of genetic data for imputation 
-- Evaluate the imputation performance using different parameters <br>
-Register <a href="https://otago.au1.qualtrics.com/jfe/form/SV_5vwUUZNiSjxVWMm">here</a><br>
-Contact: ngoni.faya@otago.ac.nz <br>
-
+### Otago Bioinformatics Spring School – In person, Dunedin, 22-26 November 2021.
+Genomics Aotearoa and NeSI are proud supporters of the Bioinformatics Spring School 2021 being organised by Otago Carpentries. This is an intensive one week, in-person course tackling the basics of bash and R, high performance computers and genomics analysis (DNA Variant calling, Genotyping-by-Sequencing, RNA-seq and eDNA).
+For more information and a link to register your expression of interest please refer to https://otagocarpentries.github.io/bioinformatics-spring-school-2021/
+Expressions of interest close 5pm 1st September (NZ)
+ 
+### Eukaryotic Genome Assembly and Annotation Workshop – In person, Auckland, 1-3 December 2021  
+This three-day workshop, supported by Genomics Aotearoa and NeSI, will cover contemporary approaches to assembling, annotating, and evaluating eukaryotic genomes from long read (Oxford Nanopore) sequencing datasets. Sessions will include hands-on bioinformatics exercises, demonstrations, and discussions.  In the course of the workshop, participants will (1) test several assembly algorithms, polishing tools and parameter sets, (2) annotate the repeats, genes and other functional content, (3) explore approaches for evaluating these assemblies, and (4) delve deeper into the comparative genomics and biological content of the assembly.  
+  
+Prerequisites:  
+Participants are expected to have prior experience of working at the command line. Priority will be given to those who can demonstrate relevance of the material covered to their own projects.  
+Expression of interest: https://otago.au1.qualtrics.com/jfe/form/SV_d7hTbMVrZrTMz54
+Expressions of interest close 5pm Friday, 17th of September (NZ)
 
 ## Dates TBA
 #### mixOmics workshop for omics data integration, Palmerston North
@@ -41,6 +59,14 @@ Survey closes on Tuesday 7 June with registration confirmation announced a day l
 Contact: Kim-Anh: kimanh.lecao@unimelb.edu.au or Matthieu: M.Vignes@massey.ac.nz <br>
  
 ## Past Workshops
+
+### Imputation Workshop, 11th August 2021 - LIC, Hamilton
+Genotype imputation is a key component of modern genetic studies. It is a cost-efficient approach to approximate high-density genotypes or full sequence data from low-density genotypes/low-pass sequencing data of individuals. This workshop is intended for anyone interested in learning how to use either Beagle or Minimac to impute genotypes and how to evaluate the imputation performance. A brief overview of imputation will be followed by demonstrations and exercises, including:
+- Quality control and preparation of genetic data for imputation 
+- Evaluate the imputation performance using different parameters <br>
+Register <a href="https://otago.au1.qualtrics.com/jfe/form/SV_5vwUUZNiSjxVWMm">here</a><br>
+Contact: ngoni.faya@otago.ac.nz <br>
+
 
 #### Environmental DNA Workshop, 24-25 June 2021, Auckland
 Advances in genomics over the past decade have greatly expanded the breadth of community ecology, and enabled fine scale study of many ecosystems. Environmental DNA (eDNA) is DNA material isolated from environmental substrates, including water, soil, air, or even within larger organisms (using a broader definition of ‘environment’). The eDNA samples can be amplified with PCR and sequenced with next-generation sequencing technologies to study the biodiversity of the environment, in a method called metabarcoding. In this workshop we will review the most common methods for metabarcoding in order to identify the taxonomic components and determine the relationship across these communities. Through a combination of demonstration and hands-on practicals, you will learn the basic concepts and core tools needed to analyse eDNA metabarcoding data for a wide range of studies. <br>
