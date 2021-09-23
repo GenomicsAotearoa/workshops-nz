@@ -24,11 +24,10 @@ Expressions of interest close 5pm Friday, 17th of September (NZ)
 We are now accepting expressions of interest for the summer school. Please see the attached GA github for more details on the content covered.
 This is a 4 day course that covers the whole metagenomics data analysis pipeline through hands on bioinformatics analysis, discussions, group assignments and talks.
 
-#### mixOmics workshop for omics data integration, Palmerston North
+### mixOmics workshop for omics data integration, Palmerston North, Postponed to early 2022
 There will be a mixOmics workshop at Massey University, Palmerston North. More details, including a tentative content, to be fine-tuned with the audience can be found at this link: http://mixomics.org/2021/05/june-28-30-2021-palmerston-north-nz-beginner/ 
  
 Register your interest here: https://forms.gle/MgFdvVjRdtnPr92UA and lock in your dates in your diary! 
-Survey closes on Tuesday 7 June with registration confirmation announced a day later. Partial or total registration fee waivers available to selected PhD student applicants. <br>
 Contact: Kim-Anh: kimanh.lecao@unimelb.edu.au or Matthieu: M.Vignes@massey.ac.nz <br>
  
 ## Past Workshops
