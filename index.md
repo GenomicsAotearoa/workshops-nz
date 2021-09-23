@@ -5,37 +5,6 @@ Many Universities, Crown research institutions, and other groups coordinate and 
 **How to add a workshop to this page:** Instructions coming soon
 
 ## Upcoming Workshops
-## September 2021
-
-### RNA-seq Workshop – Online on the 8th of September 2021
-This specialist workshop, hosted by Genomics Aotearoa and NeSI, is for researchers interested in gene expression analysis. This is a hands on workshop covering the RNA-seq pipeline from Fastq QC to Differential Expression and Enrichment analysis.
-
-Prerequisites:
-To get the most out of this workshop, it is encouraged that attendees know the basics of genetics and genomics and have familiarity with bash and R.
-
-Registration: https://www.eventbrite.co.nz/e/rna-seq-workshop-online-tickets-168673907197
-
-### Genomics Data Carpentry, 21-22 September, Online
-Co-hosted by Genomics Aotearoa and NeSI, this online introductory workshop will help you get started with genomic data analysis. Specifically, attendees can expect to learn: 
-Project organization and management - Learn how to structure your metadata, organize and document your genomics data and bioinformatics workflow, and access data on the NCBI sequence read archive (SRA) database.
-Introduction to the command line - Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards.
-Data wrangling and processing - Use command-line tools to perform quality control, align reads to a reference genome, and identify and visualize between-sample variation.
-Introduction to cloud computing and High Performance Computers (HPCs) for genomics - Learn how to work with NeSI HPCs and how to transfer data between your local computer and the HPC platform.
- 
-Prerequisites:
-This online workshop is for beginners to bioinformatics but basic genomics knowledge is expected. Learners should have some familiarity with biological concepts and must bring their own laptops. This is a hands-on workshop and participants are encouraged to participate actively.
- 
-Registration: 
-To attend, you must register in advance. Instructions for connecting to the online session will be emailed to all registrants. 
- 
-Register here: https://foreal17.github.io/2021-07-27-Online/
-
-## November 2021
-### Metagenomics Summer School – In person, Auckland, 15-18 November 2021 (Flyer attached)
-We are now accepting expressions of interest for the summer school. Please see the attached flyer for more details on the content covered.
-This is a 4 day course that covers the whole metagenomics data analysis pipeline through hands on bioinformatics analysis, discussions, group assignments and talks.
-Expression of Interest: https://otago.au1.qualtrics.com/jfe/form/SV_5yFqy1tOdKTX3AW
-Expressions of interest close 5pm Friday, 17th of September (NZ)
  
 ### Otago Bioinformatics Spring School – In person, Dunedin, 22-26 November 2021.
 Genomics Aotearoa and NeSI are proud supporters of the Bioinformatics Spring School 2021 being organised by Otago Carpentries. This is an intensive one week, in-person course tackling the basics of bash and R, high performance computers and genomics analysis (DNA Variant calling, Genotyping-by-Sequencing, RNA-seq and eDNA).
@@ -51,6 +20,10 @@ Expression of interest: https://otago.au1.qualtrics.com/jfe/form/SV_d7hTbMVrZrTM
 Expressions of interest close 5pm Friday, 17th of September (NZ)
 
 ## Dates TBA
+### Metagenomics Summer School – In person, Postponed to June/July 2022
+We are now accepting expressions of interest for the summer school. Please see the attached GA github for more details on the content covered.
+This is a 4 day course that covers the whole metagenomics data analysis pipeline through hands on bioinformatics analysis, discussions, group assignments and talks.
+
 #### mixOmics workshop for omics data integration, Palmerston North
 There will be a mixOmics workshop at Massey University, Palmerston North. More details, including a tentative content, to be fine-tuned with the audience can be found at this link: http://mixomics.org/2021/05/june-28-30-2021-palmerston-north-nz-beginner/ 
  
